@@ -1,2 +1,2 @@
-valid_email = "anna.an2022@inbox.ru"
-valid_password = "petfriend22"
+valid_email = "anna****"
+valid_password = "pet****"
